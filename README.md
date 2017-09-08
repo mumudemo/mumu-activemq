@@ -1,5 +1,7 @@
 # mumu-activemq 消息中间件
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/babymm/mumu-benchmark/blob/master/LICENSE) [![Maven Central](https://img.shields.io/maven-central/v/com.weibo/motan.svg?label=Maven%20Central)](https://github.com/babymm/mumu-benchmark) [![Build Status](https://travis-ci.org/babymm/mumu-rocketmq.svg?branch=master)](https://travis-ci.org/babymm/mumu-benchmark) [![OpenTracing-1.0 Badge](https://img.shields.io/badge/OpenTracing--1.0-enabled-blue.svg)](http://opentracing.io)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/babymm/mumu-benchmark/blob/master/LICENSE) [![Maven Central](https://img.shields.io/maven-central/v/com.weibo/motan.svg?label=Maven%20Central)](https://github.com/babymm/mumu-benchmark) 
+[![Build Status](https://travis-ci.org/mumudemo/mumu-activemq.svg?branch=master)](https://travis-ci.org/mumudemo/mumu-activemq)
+[![OpenTracing-1.0 Badge](https://img.shields.io/badge/OpenTracing--1.0-enabled-blue.svg)](http://opentracing.io)
 > ***mumu-activemq是一个对老牌mq消息中间件的学习和测试项目，本人通过这个项目来熟悉activemq的消息发送流程和消息接受流程。activemq支持各种消息协议tcp、http、udp等。activemq遵循jms开发协议，支持队列、主题两种消息模式。而且activemq已经内嵌到spring中去，当使用spring框架的时候很容易的就将activemq集成到项目中去。***
 
 ## 队列消息模式
